@@ -1,0 +1,262 @@
+/* these are the common styles in all pages*/ 
+*{
+    margin:0;
+    padding:0;
+}
+title{
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+p{
+    word-spacing: 11px;
+}
+p{
+    line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-size: 25px;
+    text-transform: capitalize;
+    font-style: oblique;
+}
+nav a{
+color: black;
+background-color: rgb(32, 32, 31);
+text-decoration: overline;
+
+}
+bottom{
+    background-color: aliceblue;
+    font-size: 18px;
+    color: blanchedalmond;
+}
+
+img{ 
+    width:350px;
+    height: 300;
+    border: 3px;
+    border-color: black;
+}
+/* in the indext page */
+body{
+    color:darkslategray ;
+    font-family:  sans-serif;
+    border-top: 10px solid  cornflowerblue;
+    position: relative;
+}
+table{
+    width: 90;
+
+}
+th{
+    border-top-left-radius: 0cqi;
+    padding: 6px;
+    text-align: center;
+    text-shadow: 2px 2px 5px grey;
+
+}
+
+footer{
+    background-color: blue;
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 10px;
+}
+ 
+p{
+    text-align: center;
+}
+/*  breakfast page */
+h2{
+font-size: 30px;
+color:blueviolet;
+text-align: center;
+text-decoration: double;
+
+}
+img{
+border: 15px;
+height: 250;
+width: 200;
+}
+p{
+font-size: 25px;
+text-decoration: underline;
+text-align:left
+}
+
+li{
+    background-color: rgb(73, 139, 139);
+    border: 1px;
+    list-style: square;
+
+}
+/*  the dinnerpage*/
+body{
+    background-color: rgb(247, 249, 250);
+}
+img{
+border: 30px;
+height: 300px;
+width: 300px;
+}
+p{
+text-align: right;
+text-decoration: line-through;
+text-indent: 3px;
+font-size: 26px;
+}
+button{
+background-color: rgb(13, 26, 204);
+color: white;
+border: none;
+font-size: 16px;}
+/* eveningroutine*/
+h2{font-size: 45;
+    text-align: center;
+    }
+    img{
+    border: 20px;
+    height: 400px;
+    width: 300px;
+    }
+    p{
+        text-align: center;
+        text-decoration: overline;
+        text-indent: 3px;
+        font-size: 26px;
+        }
+    button{
+        background-color: rgb(13, 26, 204);
+        color: white;
+        border: none;
+        font-size: 16px;
+        }
+        /* lunch page*/
+    h1{
+        text-align: center;
+        font-size: larger;
+        color: blue;
+    }
+    img{
+        border: 29px;
+        height: 300px;
+        width:300px;
+
+    }
+    p{
+        font-size: 24px;
+        font-variant: small-caps;
+        word-spacing: normal;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    
+    /*morningroutine page*/
+    h1{
+     font-size: 40px;
+    text-decoration: overline;
+    color: rgb(38, 10, 65);
+    text-align: center;
+    }
+    h2{
+        font-size: 37px;
+        color: rgb(110, 33, 182);
+        text-align: center;
+    }
+    h3{ color: blueviolet;
+        font-size: 27px;
+        text-align: center;
+    }
+p{
+font-size: 26px;
+}
+img{
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    
+}
+/*studing page*/
+h2{
+font-size: 40px;
+color: black;
+}
+img{
+width: 300px;
+height: 300px;
+border: 100;
+}
+li{
+text-align: center;
+background-color: white;
+text-align: center;
+}
+aside{
+    
+    padding-inline: 0.2rem;
+   
+    color: olive;
+    text-align: center;
+    border: 20px;
+    box-shadow: inset;
+}
+/*sleeping page*/
+img{
+    width: 500px;
+    height: 600px;
+    
+}
+
+h1{
+    font-size: 60px;
+    color: blue;
+    text-align: center
+}
+h3{
+    text-align: right;
+    color: blue;
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+    text-decoration: wavy;
+}
+
+li{
+    text-align: left;
+    color: black;
+    line-height: 21px;
+    list-style: circle;
+    
+    h5{
+        font-size: 30px;
+    }
+}
+/*University Page*/
+h1{
+    color: rgb(7, 80, 17);
+    font-size: 39px;
+    text-align: center;
+}
+p{
+    font-size: 26px;
+    text-decoration: double;
+}
+th{
+    color: black;
+    text-align: right;
+}
+aside{
+    padding-top: 12rem;
+    text-align: center;
+    border: 20px;
+    color: rgb(105, 65, 65);
+}
+
+    
+      
+
+
+
